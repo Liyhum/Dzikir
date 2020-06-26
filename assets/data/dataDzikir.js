@@ -1,0 +1,42 @@
+export default data=[
+    {
+        id:1,
+        text:'أَعُوذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ',
+        name:'“Aku berlindung kepada Allah dari godaan syaitan yang terkutuk.”'
+    },
+    {
+        id:2,
+        text:'',
+        name:''
+    },
+    {
+        id:3,
+        text:'',
+        name:''
+    },
+    {
+        id:4,
+        text:'',
+        name:''
+    },
+    {
+        id:5,
+        text:'',
+        name:''
+    },
+    {
+        id:6,
+        text:'',
+        name:''
+    },
+    {
+        id:7,
+        text:'',
+        name:''
+    },
+    {
+        id:8,
+        text:'',
+        name:''
+    },
+]
